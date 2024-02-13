@@ -36,3 +36,118 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+/*РЕАКТ-ТРЕНАЖЁР: */
+
+
+/*   1.6  */
+/* идеальный пример пропса - звёздочки*/
+/*
+.star {
+  font-size: 42px;
+  color: #FBB202;
+  margin: 4px;
+}
+
+.star:after {
+  content: '☆';
+}
+
+.checked:after {
+  content: '★';
+}
+
+.title {
+  margin-top: 8px;
+}
+*/
+
+
+/*2.1*/
+/*
+.notification {
+  padding: 8px;
+  margin: 8px 0;
+  background-color: #CAE3F0;
+}
+
+.notification.info {
+  background-color: #d2ecd5;
+}
+
+.notification.warning {
+  background-color: #f9edc1;
+}
+
+.notification.error {
+  background-color: #f5dbd9;
+}
+
+.title {
+  display: inline-block;
+  margin-left: 4px;
+  font-weight: bold;
+}
+
+.message {
+  margin-top: 8px;
+  color: #3e4956;
+}
+*/
+
+
+
+/*2.4*/
+/*
+.title {
+   margin: 16px 0;
+  font-size: 20px;
+  font-weight: 400
+}
+
+.progressBarTitle {
+  color: blue;
+}
+
+.progressBar {
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  transition: all 0.2s;
+}
+
+
+.progressBarWrapper {
+  background: #CECECE;
+  height: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.progressBarDone {
+  background: red;
+  color: #fff;
+  text-align: right;
+  padding: 5px 10px;
+  font-weight: bold;
+  height: 100%;
+  width: var(--progress-amount, 0%);
+  display: flex;
+  align-items: center;
+}
+
+.progressBarDone span {
+  margin-right: 5px;
+}
+*/
+
+
+
+
